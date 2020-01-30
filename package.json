@@ -1,5 +1,5 @@
 {
-  "name": "jscodeshift",
+  "name": "@robmarr/jscodeshift",
   "version": "0.7.0",
   "description": "A toolkit for JavaScript codemods",
   "repository": {
