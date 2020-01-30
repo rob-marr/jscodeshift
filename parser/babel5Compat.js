@@ -21,6 +21,7 @@ const options = {
   startLine: 1,
   tokens: true,
   plugins: [
+    'decorators-legacy',
     'estree',
     'jsx',
     'asyncGenerators',
